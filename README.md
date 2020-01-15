@@ -29,7 +29,7 @@ Write your code in `src/index.js.
 ## Submit to [rs app](https://app.rs.school/epamlearningjs)
 1. Open [rs app](https://app.rs.school/epamlearningjs) and login
 2. Go to [submit task page](https://app.rs.school/epamlearningjs)
-3. Select your task (towel-sort)
+3. Select your task (typical-arrays-problems)
 4. Press the submit button and enjoy, results will be available in few minutes
 
 ### Notes
